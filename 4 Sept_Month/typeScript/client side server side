@@ -1,0 +1,10 @@
+Client-Side: Runs in the browser, handles UI and user interactions 
+             HTML, CSS, JS
+Client = what you see   (it is a frontend basically)      
+
+
+
+Server-Side: Runs on the server, handles business logic, database, and security 
+             Java, Node.js, Python
+
+Server = what you don’t see but processes your request(it is a backend )

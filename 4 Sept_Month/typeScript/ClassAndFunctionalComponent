@@ -1,0 +1,6 @@
+Functional Components ::(its modern and mostaly use)
+Simple functions, use Hooks for state & lifecycle, modern & preferred.
+
+Class Components :: (its old so less use but not deprecated)
+Use class, this.state, lifecycle methods, older & less used now.
+
